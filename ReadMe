@@ -6,5 +6,5 @@ Keeping a properly structured and thought-out list sounds simple enough. But it 
 In fact, it's often when people start to use them effectively and sensibly that they make their first personal productivity breakthroughs, and start making a success of their careers. 
 The App is based on storing the list of tasks. It provides simple UI to interact and perform basic operations like add and delete particular tasks. The project links tasks to particular users, so that only that user can edit or delete his/her task and no one else has that authentication. 
 It is build completely on front end as well as backend.
-For front end it includes html, javascript, css. Backend is completely build on Python using Django as framework.
+For front end it includes html, javascript, css. Backend is completely built on Python using Django as framework.
 
